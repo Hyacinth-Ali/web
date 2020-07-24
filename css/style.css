@@ -1,0 +1,55 @@
+
+
+.navigation-bar {
+  color: black;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    /* font-size: 12px; */
+    letter-spacing: 5px;
+    color: red;
+    font-weight: bold;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.navbar-brand:hover{
+  color: #1abc9c !important;
+}
+
+.navbar-nav  li a {
+    color: #000000;
+}
+
+.my-image {
+  border-radius: 100%;
+}
+
+div ul {
+  line-height: 2rem;
+}
+
+.home-image {
+  text-align: center;
+}
+
+.research-interests {
+  padding-left: 7rem;
+}
+
+.about-me {
+  padding-bottom: 5rem;
+}
