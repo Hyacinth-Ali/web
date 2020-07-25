@@ -1,12 +1,24 @@
 
+body {
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif */
+font-family: 'Merriweather', serif;
+/* font-family: 'Montserrat', sans-serif;
+ */
+}
+
+h3 {
+  color: #66BFBF;
+}
 
 .navigation-bar {
   color: black;
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
-  font-size: 2rem;
+  /* font-family: "Ubuntu"; */
+  /* font-family: 'Sacramento', cursive; */
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-size: 2rem; */
   font-weight: bold;
 }
 
