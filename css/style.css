@@ -10,6 +10,15 @@ h4 {
   color: #66BFBF;
 }
 
+a {
+  text-decoration: underline;
+  color: #000;
+}
+
+a:hover {
+  color: #1abc9c !important;
+}
+
 
 .navigation-bar {
   color: black;
@@ -20,6 +29,7 @@ h4 {
   /* font-family: 'Montserrat', sans-serif; */
   /* font-size: 2rem; */
   font-weight: bold;
+  text-decoration: none;
 }
 
 .navbar {
@@ -34,6 +44,10 @@ h4 {
 
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
+}
+
+.navbar-nav  li a {
+  text-decoration: none;
 }
 
 .navbar-brand:hover{
@@ -67,7 +81,17 @@ h4 {
 
 .teaching-assistant {
   padding-top: 1rem;
-  padding-left: 3rem;
+  /* padding-left: 3rem; */
+}
+
+.publications {
+  padding-top: 1rem;
+  /* padding-left: 3rem; */
+}
+
+.awards {
+  padding-top: 1rem;
+  /* padding-left: 3rem; */
 }
 
 .about-me {
@@ -77,7 +101,7 @@ h4 {
 
 .container-fluid {
   position: relative;
-  padding: 1% 12%;
+  padding: 1% 20%;
 }
 
 p {
@@ -91,6 +115,6 @@ p {
 .touchcore-image {
   width: 50%;
   border-radius: 8px;
-  float: left;
-  margin-right: 25px;
+  float: right;
+  margin-left: 10px;
 }
