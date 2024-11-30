@@ -1,13 +1,12 @@
-
 body {
   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif */
-font-family: 'Merriweather', serif;
-/* font-family: 'Montserrat', sans-serif;
+  font-family: "Merriweather", serif;
+  /* font-family: 'Montserrat', sans-serif;
  */
 }
 
 h4 {
-  color: #66BFBF;
+  color: #66bfbf;
 }
 
 a {
@@ -18,7 +17,6 @@ a {
 a:hover {
   color: #1abc9c !important;
 }
-
 
 .navigation-bar {
   color: black;
@@ -33,29 +31,29 @@ a:hover {
 }
 
 .navbar {
-    padding: 5px 0;
-    border: 0;
-    border-radius: 0;
-    margin-bottom: 0;
-    /* font-size: 12px; */
-    letter-spacing: 5px;
-    font-weight: bold;
+  padding: 5px 0;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  /* font-size: 12px; */
+  letter-spacing: 5px;
+  font-weight: bold;
 }
 
-.navbar-nav  li a:hover {
-    color: #1abc9c !important;
-}
-
-.navbar-nav  li a {
-  text-decoration: none;
-}
-
-.navbar-brand:hover{
+.navbar-nav li a:hover {
   color: #1abc9c !important;
 }
 
-.navbar-nav  li a {
-    color: #000000;
+.navbar-nav li a {
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  color: #1abc9c !important;
+}
+
+.navbar-nav li a {
+  color: #000000;
 }
 
 .my-image {
@@ -101,7 +99,7 @@ a:hover {
 
 .container-fluid {
   position: relative;
-  padding: 1% 10%;
+  padding: 1% 20%;
 }
 
 p {
