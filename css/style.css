@@ -92,6 +92,10 @@ a:hover {
   /* padding-left: 3rem; */
 }
 
+.address {
+  text-align: justify;
+}
+
 .about-me {
   padding-bottom: 5rem;
   line-height: 1.5;
