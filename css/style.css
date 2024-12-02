@@ -84,6 +84,8 @@ a:hover {
 
 .course-level {
   font-style: italic;
+  font-size: medium;
+  /* font-weight: bold; */
 }
 
 .publications {
