@@ -82,6 +82,10 @@ a:hover {
   /* padding-left: 3rem; */
 }
 
+.course-level {
+  font-style: italic;
+}
+
 .publications {
   padding-top: 1rem;
   /* padding-left: 3rem; */
